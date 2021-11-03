@@ -21,3 +21,6 @@ Prazo 03/11/2021.
 
 ### Informações adicionais
 * Utilizar o projeto atual como base, pode ser modificado para atender as necessidades.
+
+## Se o banco de dados não conectar
+* Caso o banco de dados não conecte, alterar a porta do banco de dados Postgres de 5432 para a porta utilizada localmente.
